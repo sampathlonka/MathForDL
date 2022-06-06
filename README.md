@@ -1,3 +1,3 @@
 # MathForDL
 
-YOu can find several mathematics concepts related to Machine Learning or Deep Learning explained here. The implementation in python.
+You can find several mathematical concepts related to Machine Learning or Deep Learning explained here and these concepts implementation in python.
